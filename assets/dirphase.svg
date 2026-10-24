@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="68" viewBox="0 0 68 68" role="img" aria-label="dirphase">
+    <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#13101f"/><stop offset="1" stop-color="#090e13"/></linearGradient>
+    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="2.5"/></filter></defs>
+    <rect x="1" y="1" width="66" height="66" rx="10" fill="url(#bg)" stroke="#313145"/>
+    <g stroke="#bd52ff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity=".2" filter="url(#glow)"><path d="M12 23h18l6 6h20v23H12z"/><path d="M12 23v-7h17l6 7"/><path d="M20 38h16M20 44h11"/></g>
+    <g stroke="#bd52ff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3"><path d="M12 23h18l6 6h20v23H12z"/><path d="M12 23v-7h17l6 7"/><path d="M20 38h16M20 44h11"/></g>
+    </svg>
