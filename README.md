@@ -1,3 +1,4 @@
+
 <!--
   NULLR1TUAL // GitHub profile README
   This is a REAL README: only the hero is a full-width graphic.
@@ -5,7 +6,6 @@
   Edit descriptions here; do NOT put these paragraphs inside an image.
   GitHub does not allow custom CSS for the profile sidebar, repo cards or Markdown.
 -->
-
 
 <p align="center">
   <img
@@ -15,6 +15,9 @@
   />
 </p>
 
+<table width="100%">
+  <tr>
+    <td width="63%" valign="top">
       <h3>👋 Hi there, I'm NullR1tual.</h3>
       <p>
         I build tools, explore security, and document what I learn. Focused on
@@ -80,6 +83,15 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/NullR1tual/DirPhase">DirPhase ↗</a>
+  &nbsp; • &nbsp;
+  <a href="https://0xhtx.net">0xHTX ↗</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/NullR1tual">GitHub ↗</a>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/NullR1tual/DirPhase">DirPhase ↗</a>
