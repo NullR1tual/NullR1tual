@@ -7,7 +7,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="NULLR1TUAL — Hacking / Coding / SEO. Building tools. Breaking limits. Documenting the journey." width="100%" />
+  <img src="./assets/nr_banner_git.png" alt="Null_R1tual Github Banner" width="100%" />
 </p>
 
 <table width="100%">
