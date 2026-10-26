@@ -6,13 +6,15 @@
   GitHub does not allow custom CSS for the profile sidebar, repo cards or Markdown.
 -->
 
+
 <p align="center">
-  <img src="./assets/nr_banner_git.png" alt="Null_R1tual Github Banner" width="100%" />
+  <img
+    src="./assets/NR_Glitch_Banner_GitHub.gif"
+    alt="Null_R1tual Cyberpunk Banner"
+    width="100%"
+  />
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="63%" valign="top">
       <h3>👋 Hi there, I'm NullR1tual.</h3>
       <p>
         I build tools, explore security, and document what I learn. Focused on
