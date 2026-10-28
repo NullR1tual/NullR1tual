@@ -9,6 +9,10 @@ Only the hero is a full-width graphic. All text and projects are editable.
 <img src="./assets/NR_Glitch_Banner_GitHub.gif" alt="Null_R1tual Cyberpunk Banner" width="100%" />
 </p>
 
+<p align="center">
+<a href="https://wdgwars.pl/"><img src="https://wdgwars.pl/card/5518-XDJVHQ37.svg" alt="WDGWars card" width="100%" </a>
+</p>
+
 <!-- INTRODUCTION AND CURRENT WORK -->
 <table width="100%">
 <tr>
