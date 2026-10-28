@@ -14,14 +14,6 @@ Only the hero is a full-width graphic. All text and projects are editable.
 <tr>
 <td width="63%" valign="top">
 
-<pre>
- _   _       _ _ ____  _ _               _
-| \ | |_   _| | |  _ \/ | |_ _   _  __ _| |
-|  \| | | | | | | |_) | | __| | | |/ _` | |
-| |\  | |_| | | |  _ &lt;| | |_| |_| | (_| | |
-|_| \_|\__,_|_|_|_| \_\_|\__|\__,_|\__,_|_|
-</pre>
-
 [![WDGWars](https://wdgwars.pl/card/5518-XDJVHQ37.svg)](https://wdgwars.pl/)
 
 <p>I build tools, explore security, and document what I learn. Focused on automation, cybersecurity, and creating resources that help the community. Always exploring new ideas and pushing to build something useful.</p>
