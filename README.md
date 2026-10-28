@@ -20,14 +20,14 @@ Only the hero is a full-width graphic. All text and projects are editable.
 <p>I build tools, explore security, and document what I learn. Focused on automation, cybersecurity, and creating resources that help the community. Always exploring new ideas and pushing to build something useful.</p>
 </td>
 <td width="37%" valign="top">
-<h3><img src="./assets/indicator-purple-glitch.gif" width="28" height="28" alt="" /> &nbsp;Currently Working On</h3>
+<h3>Currently Working On</h3>
 <ul>
 <li>Expanding <strong>DirPhase</strong> with new features</li>
 <li>Building <strong>Noxspan</strong>, a network recon tool</li>
 <li>Creating cybersecurity resources through <strong>0xHTX</strong></li>
 <li>Documenting tools and technical experiments</li>
 </ul>
-<h3><img src="./assets/indicator-green-glitch.gif" width="28" height="28" alt="" /> &nbsp;Languages</h3>
+<h3>Languages</h3>
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" height="30" alt="Python" /> &nbsp; <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" height="30" alt="Go" /></p>
 </td>
 </tr>
