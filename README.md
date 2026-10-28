@@ -6,10 +6,6 @@ Only the hero is a full-width graphic. All text and projects are editable.
 -->
 
 <p align="center">
-<img src="./assets/NR_Glitch_Banner_GitHub.gif" alt="Null_R1tual Cyberpunk Banner" width="100%" />
-</p>
-
-<p align="center">
 <a href="https://wdgwars.pl/"><img src="https://wdgwars.pl/card/5518-XDJVHQ37.svg" alt="WDGWars card" width="100%" </a>
 </p>
 
@@ -19,7 +15,9 @@ Only the hero is a full-width graphic. All text and projects are editable.
 <td width="63%" valign="top">
 <br>
 
-[![WDGWars](https://wdgwars.pl/card/5518-XDJVHQ37.svg)](https://wdgwars.pl/)
+<p align="center">
+<img src="./assets/NR_Glitch_Banner_GitHub.gif" alt="Null_R1tual Cyberpunk Banner" width="100%" />
+</p>
 
 <p>I build tools, explore security, and document what I learn. Focused on automation, cybersecurity, and creating resources that help the community. Always exploring new ideas and pushing to build something useful.</p>
 </td>
