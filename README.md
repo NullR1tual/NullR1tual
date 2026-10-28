@@ -13,6 +13,7 @@ Only the hero is a full-width graphic. All text and projects are editable.
 <table width="100%">
 <tr>
 <td width="63%" valign="top">
+<br>
 
 [![WDGWars](https://wdgwars.pl/card/5518-XDJVHQ37.svg)](https://wdgwars.pl/)
 
