@@ -28,7 +28,10 @@ Only the hero is a full-width graphic. All text and projects are editable.
 <li>Documenting tools and technical experiments</li>
 </ul>
 <h3>Languages</h3>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" height="30" alt="Python" /> &nbsp; <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" height="30" alt="Go" /></p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FFD43B&logoColor=3776AB&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&labelColor=7fd5eb&logoColor=00ADD8&logo=go" alt="Go">
+</p>
 </td>
 </tr>
 </table>
