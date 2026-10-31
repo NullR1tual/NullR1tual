@@ -21,6 +21,13 @@ Only the hero is a full-width graphic. All text and projects are editable.
 
 <p>I build tools, explore security, and document what I learn. Focused on automation, cybersecurity, and creating resources that help the community. Always exploring new ideas and pushing to build something useful.</p>
 </td>
+
+<p>
+<a href="https://wigle.net">
+<img border="0" src="https://wigle.net/bi/qtNgvkaNVsnKVS7EZOcSFA.png">
+</a>
+</p>
+
 <td width="37%" valign="top">
 <h3>Currently Working On</h3>
 <ul>
