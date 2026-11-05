@@ -34,39 +34,6 @@ Only the hero is a full-width graphic. All text and projects are editable.
 </tr>
 </table>
 
-<!-- FEATURED PROJECTS -->
-<h2>Featured Projects</h2>
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<img src="./assets/dirphase.svg" width="54" align="right" alt="DirPhase folder icon" />
-<a href="https://github.com/NullR1tual/DirPhase"><strong>DirPhase ↗</strong></a> &nbsp;<img src="./assets/status-public.svg" height="19" alt="Public repository" />
-<p>A Python utility for organizing files into folders by type.</p>
-<p><code>Python</code> &nbsp;·&nbsp; <a href="https://github.com/NullR1tual/DirPhase">View repository</a></p>
-</td>
-<td width="50%" valign="top">
-<img src="./assets/noxspan.svg" width="54" align="right" alt="Noxspan network icon" />
-<strong>Noxspan</strong> &nbsp;<img src="./assets/status-dev.svg" height="19" alt="In development" />
-<p>A Go-based network reconnaissance and TCP port-scanning tool.</p>
-<p><code>Go</code> &nbsp;·&nbsp; In development</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="./assets/null-spider.svg" width="54" align="right" alt="Null Spider icon" />
-<strong>Null Spider</strong> &nbsp;<img src="./assets/status-dev.svg" height="19" alt="In development" />
-<p>A desktop SEO crawler and site-analysis tool.</p>
-<p><code>Go</code> <code>React</code> &nbsp;·&nbsp; In development</p>
-</td>
-<td width="50%" valign="top">
-<img src="./assets/0xhtx.svg" width="54" align="right" alt="0xHTX zine icon" />
-<a href="https://0xhtx.net"><strong>0xHTX ↗</strong></a> &nbsp;<img src="./assets/status-live.svg" height="19" alt="Live website" />
-<p>An independent Houston hacker zine and technology community.</p>
-<p><code>Community</code> &nbsp;·&nbsp; <a href="https://0xhtx.net">Visit 0xHTX.net</a></p>
-</td>
-</tr>
-</table>
-
 <!-- FOOTER LINKS -->
 <p align="center">
 <a href="https://github.com/NullR1tual/DirPhase">DirPhase ↗</a> &nbsp; • &nbsp;
