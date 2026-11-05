@@ -16,6 +16,11 @@ Only the hero is a full-width graphic. All text and projects are editable.
 <td width="63%" valign="top">
 <h3>About Me</h3>
 <p>I build tools, explore security, and document what I learn. Focused on automation, cybersecurity, and creating resources that help the community. Always exploring new ideas and pushing to build something useful.</p>
+<h3>Languages</h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FFD43B&logoColor=3776AB&logo=python" alt="Python" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&labelColor=7fd5eb&logoColor=00ADD8&logo=go" alt="Go" />
+</p>
 </td>
 <td width="37%" valign="top">
 <h3>Currently Working On</h3>
@@ -25,11 +30,6 @@ Only the hero is a full-width graphic. All text and projects are editable.
 <li>Creating cybersecurity resources through <strong>0xHTX</strong></li>
 <li>Documenting tools and technical experiments</li>
 </ul>
-<h3>Languages</h3>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FFD43B&logoColor=3776AB&logo=python" alt="Python" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&labelColor=7fd5eb&logoColor=00ADD8&logo=go" alt="Go" />
-</p>
 </td>
 </tr>
 </table>
