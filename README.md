@@ -34,10 +34,3 @@ Only the hero is a full-width graphic. All text and projects are editable.
 </tr>
 </table>
 
-<!-- FOOTER LINKS -->
-<p align="center">
-<a href="https://github.com/NullR1tual/DirPhase">DirPhase ↗</a> &nbsp; • &nbsp;
-<a href="https://0xhtx.net">0xHTX ↗</a> &nbsp; • &nbsp;
-<a href="https://github.com/NullR1tual">GitHub ↗</a>
-</p>
-
