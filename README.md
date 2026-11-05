@@ -1,33 +1,22 @@
 
 <!--
-NULLR1TUAL // GitHub profile README
-Keep the HTML tables continuous: no blank lines or indented Markdown inside them.
+NULLR1TUAL // GitHub Profile README
+Keep HTML tables continuous: no blank lines or indented Markdown inside them.
 Only the hero is a full-width graphic. All text and projects are editable.
 -->
 
+<!-- ANIMATED NR GLITCH HERO -->
 <p align="center">
-<a href="https://wdgwars.pl/"><img src="https://wdgwars.pl/card/5518-XDJVHQ37.svg" alt="WDGWars card" width="100%" </a>
+  <img src="./assets/NR_Glitch_Banner_GitHub.gif" alt="Null_R1tual Animated NR Glitch Logo" width="100%" />
 </p>
 
 <!-- INTRODUCTION AND CURRENT WORK -->
 <table width="100%">
 <tr>
 <td width="63%" valign="top">
-<br>
-
-<p align="center">
-<img src="./assets/NR_Glitch_Banner_GitHub.gif" alt="Null_R1tual Cyberpunk Banner" width="100%" />
-</p>
-
+<h3>About Me</h3>
 <p>I build tools, explore security, and document what I learn. Focused on automation, cybersecurity, and creating resources that help the community. Always exploring new ideas and pushing to build something useful.</p>
 </td>
-
-<p>
-<a href="https://wigle.net">
-<img border="0" src="https://wigle.net/bi/qtNgvkaNVsnKVS7EZOcSFA.png">
-</a>
-</p>
-
 <td width="37%" valign="top">
 <h3>Currently Working On</h3>
 <ul>
@@ -38,8 +27,8 @@ Only the hero is a full-width graphic. All text and projects are editable.
 </ul>
 <h3>Languages</h3>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FFD43B&logoColor=3776AB&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&labelColor=7fd5eb&logoColor=00ADD8&logo=go" alt="Go">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FFD43B&logoColor=3776AB&logo=python" alt="Python" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&labelColor=7fd5eb&logoColor=00ADD8&logo=go" alt="Go" />
 </p>
 </td>
 </tr>
@@ -85,8 +74,3 @@ Only the hero is a full-width graphic. All text and projects are editable.
 <a href="https://github.com/NullR1tual">GitHub ↗</a>
 </p>
 
-  &nbsp; • &nbsp;
-  <a href="https://0xhtx.net">0xHTX ↗</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/NullR1tual">GitHub ↗</a>
-</p>
