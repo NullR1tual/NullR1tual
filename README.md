@@ -30,6 +30,7 @@ Only the hero is a full-width graphic. All text and projects are editable.
 <li>Creating and running <strong>0xHTX - Houston Hacker Zine</strong></li>
 <li>Writing custom firmware for a homemade ESP32-C5 wardriving rig</li>
 </ul>
+<br>
 </td>
 </tr>
 </table>
