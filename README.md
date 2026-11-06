@@ -23,12 +23,12 @@ Only the hero is a full-width graphic. All text and projects are editable.
 </p>
 </td>
 <td width="37%" valign="top">
-<h3>Currently Working On</h3>
+<h3>Things I'm Currently Working On</h3>
 <ul>
 <li>Expanding <strong>DirPhase</strong> with new features</li>
-<li>Building <strong>Noxspan</strong>, a network recon tool</li>
-<li>Creating cybersecurity resources through <strong>0xHTX</strong></li>
-<li>Documenting tools and technical experiments</li>
+<li>Building <strong>NoxLeaf</strong>, a fully-featured yet focused Markdown editor</li>
+<li>Creating and running <strong>0xHTX - Houston Hacker Zine</strong></li>
+<li>Writing custom firmware for a homemade ESP32-C5 wardriving rig</li>
 </ul>
 </td>
 </tr>
